@@ -213,3 +213,4 @@ The correlation between endpoint execution and subsequent network activity suppo
 Immediate containment, deeper endpoint investigation, credential review, eradication of any identified malicious artifacts, and controlled recovery are recommended.
 
 The incident demonstrates how correlating multiple security data sources allows a SOC analyst to move from an individual alert toward an evidence-based assessment of potentially malicious activity.
+

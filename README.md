@@ -113,3 +113,8 @@ The investigation does not establish that data theft occurred or identify the co
 ## Conclusion
 
 This project demonstrates the SOC incident response process by correlating security alerts, identifying potentially malicious activity, assessing organizational risk, and translating technical findings into actionable recommendations for both technical personnel and executive leadership.
+## AI Assistance Disclosure
+
+AI was used as a support tool during this project to help with organization, formatting, troubleshooting, documentation structure, and explanation of cybersecurity concepts.
+
+All project work was reviewed, tested, and approved by me. I remained responsible for understanding the code, validating the results, interpreting the findings, and explaining the final project.
